@@ -48,3 +48,12 @@ This project uses **SQLite** syntax (compatible with most SQL environments).
 - `data.sql` — Inserts sample data
 - `queries.sql` — Contains all analytical queries with explanations
 - `erd.md` — Simple text-based Entity Relationship Diagram
+
+---
+
+**About Me**  
+Randall James | Data Coordinator / Data Analyst / Project Manager  
+St. Louis, MO (O'Fallon area) | Open to remote, hybrid, or on-site within ~30 min commute  
+[LinkedIn](https://www.linkedin.com/in/randall-james-stl) | [GitHub](https://github.com/senseirandystl) | randalljames34@pm.me
+
+*This project was created as part of my professional portfolio to demonstrate data analysis capabilities.*
